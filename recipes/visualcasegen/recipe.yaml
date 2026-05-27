@@ -35,6 +35,8 @@ requirements:
     - networkx >=3.3,<3.4
     - netcdf4 >=1.6,<1.7
     - xarray >=2023.12,<2024
+    - ipyfilechooser
+    - mom6_forge
 
 tests:
   - python:
